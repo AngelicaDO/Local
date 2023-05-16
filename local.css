@@ -1,0 +1,37 @@
+#editar-local {
+  display: none;
+}
+#novo-local {
+  display: none;
+}
+#tabela-novo-local {
+  display: none;
+}
+#tabela-local-editar {
+  display: none;
+}
+
+.form-control:focus {
+  border-color: var(--gray-dark);
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.form-control {
+  transition: all 0.2s ease-in-out !important;
+}
+
+.selecionado {
+  background-color: RGBA(108, 117, 125, 0.1);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.tr-pointer {
+  cursor: pointer;
+}

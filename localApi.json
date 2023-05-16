@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": 7851,
+    "nome_fantasia": "Hospital e Maternidade Master Clin ",
+    "cnpj": "Avenida Jose Maria Whitaker, 370",
+    "cnes": "99954256"
+  },
+  {
+    "codigo": 7853,
+    "nome_fantasia": "Casa de Repouso Cidade Vargas",
+    "cnpj": "Rua Hilário Ribeiro, 87",
+    "cnes": "99954256"
+  },
+  {
+    "codigo": 7841,
+    "nome_fantasia": "Marselhesa - Ressonância - sabado-domingo-feriado ",
+    "cnpj": "Rua Marselhesa,500 ",
+    "cnes": "99954256"
+  },
+  {
+    "codigo": 4444,
+    "nome_fantasia": "CDB - Vilela - Ressonância - segunda/sexta",
+    "cnpj": "Rua Vilela, 800",
+    "cnes": "99954256"
+  }
+]
